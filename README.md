@@ -1,2 +1,2 @@
 # NimdaCon
-Nimda Security Sub Project
+Nimda Security BOJ Project
