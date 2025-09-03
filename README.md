@@ -90,8 +90,8 @@ npm run test:frontend
 ## 유용한 명령어
 
 ```bash
-# 의존성 정리
-npm run clean
+# 의존성 정리 commitw
+npm run cleans
 
 # 새로운 의존성 추가 (백엔드)
 cd backend && npm install <package-name>
